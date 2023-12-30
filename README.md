@@ -12,10 +12,10 @@
 
 ## :camera_flash: Project Image
 
-![Image - App1](../adrianbook/src/assets/img/SocialNetworks.PNG)
+![Image - App1](https://github.com/Adrian97G/App-SocialNetwork/blob/main/src/assets/img/SocialNetworks.PNG)
 
 ## :link: Link to see the project in action
 
-[Here you can visit my website]()
+[Here you can visit my website](https://app.netlify.com/sites/app-devbook/overview)
 
 ## :wave: Greetings!!

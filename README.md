@@ -16,6 +16,6 @@
 
 ## :link: Link to see the project in action
 
-[Here you can visit my website](https://app.netlify.com/sites/app-devbook/overview)
+[Here you can visit my website](https://app-devbook.netlify.app/)
 
 ## :wave: Greetings!!

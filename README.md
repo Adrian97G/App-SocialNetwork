@@ -12,7 +12,7 @@
 
 ## :camera_flash: Project Image
 
-![Image - App1](https://github.com/Adrian97G/App-SocialNetwork/blob/main/src/assets/img/SocialNetworks.PNG)
+![Image - App1](https://github.com/Adrian97G/App-SocialNetwork/blob/main/src/assets/img/devbook.png)
 
 ## :link: Link to see the project in action
 
